@@ -1,2 +1,2 @@
-I don't understand how this works. I thought that if you "pull" from the terminal that theh local repo would have the files from this remote repo... but no? then what? 
+I don't understand how this works. I thought that if you "pull" from the terminal that the local repo would have the files from this remote repo... but no? then what? 
 what does it look like to operate throughout a software project?
